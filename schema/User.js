@@ -64,6 +64,7 @@ exports = module.exports = function(app, mongoose) {
       });
     });
   };
+
   userSchema.statics.validatePassword = function(password, hash, done) {
     var bcrypt = require('bcrypt');
     bcrypt.compare(password, hash, function(err, res) {
@@ -80,5 +81,6 @@ exports = module.exports = function(app, mongoose) {
   userSchema.index({ 'google.id': 1 });
   userSchema.index({ search: 1 });
   userSchema.set('autoIndex', (app.get('env') === 'development'));
+
   app.db.model('User', userSchema);
 };

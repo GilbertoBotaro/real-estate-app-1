@@ -1,19 +1,19 @@
 {
-  "name": "angular-drywall",
-  "description": "A MEAN stack User Management web app",
+  "name": "real-estate-app",
+  "description": "Real Estate Application for Agents, Builders",
   "version": "0.1.10",
   "keywords": [
-    "angular",
-    "drywall"
+    "Real Estate Agents App",
+    "Real Estate Builders App"
   ],
   "license": "MIT",
   "author": {
-    "name": "Arthur C. Kao",
-    "email": "arthurckao@gmail.com"
+    "name": "Venkat Reddy Chintalapudi",
+    "email": "venkatreddyc@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/arthurkao/angular-drywall"
+    "url": "https://github.com/venkatreddyc/real-estate-app"
   },
   "scripts": {
     "start": "node app.js",
