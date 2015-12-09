@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Real Estate App for Agents]
 
 [![Build Status](https://travis-ci.org/venkatreddyc/real-estate-app.svg?branch=master)](https://travis-ci.org/venkatreddyc/real-estate-app)
@@ -51,6 +52,13 @@ Many GitHub repositories sport badges for things like:
 </table>
 
 
+=======
+
+# [Real Estate App for Agents]
+
+[![Build Status](https://travis-ci.org/venkatreddyc/real-estate-app.svg?branch=master)](https://travis-ci.org/venkatreddyc/real-estate-app)
+
+>>>>>>> origin/master
 
 A website and user system, implemented with [MongoDB](https://www.mongodb.org/), [Express](http://expressjs.com/), [AngularJS](https://angularjs.org/) and [Node.js](https://nodejs.org/), a.k.a MEAN stack.
 Inspired by and forked from [Drywall](https://github.com/jedireza/drywall).
