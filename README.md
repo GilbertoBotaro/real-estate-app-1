@@ -1,6 +1,7 @@
-# [Angular-Drywall](http://arthurkao.github.io/angular-drywall)
+# [Real Estate App for Agents]
 
-[![Build Status](https://travis-ci.org/arthurkao/angular-drywall.svg?branch=master)](https://travis-ci.org/arthurkao/angular-drywall)
+[![Build Status](https://travis-ci.org/venkatreddyc/real-estate-app.svg?branch=master)](https://travis-ci.org/venkatreddyc/real-estate-app)
+
 
 A website and user system, implemented with [MongoDB](https://www.mongodb.org/), [Express](http://expressjs.com/), [AngularJS](https://angularjs.org/) and [Node.js](https://nodejs.org/), a.k.a MEAN stack.
 Inspired by and forked from [Drywall](https://github.com/jedireza/drywall).
@@ -55,7 +56,7 @@ page](https://github.com/jedireza/drywall/wiki/bcrypt-Installation-Trouble).
 
 ## Installation
 ```bash
-$ git clone https://github.com/arthurkao/angular-drywall.git && cd ./angular-drywall
+$ git clone https://github.com/venkatreddyc/real-estate-app.git && cd ./real-estate-app
 $ npm install
 $ cd client && bower install && cd ..
 ```
