@@ -1,3 +1,7 @@
+
+service_name: travis-pro
+repo_token: lKGOGInDA8HM0yAUQhviTkFlHDZlHJkOg
+
 language: node_js
 node_js:
   - "0.12"
