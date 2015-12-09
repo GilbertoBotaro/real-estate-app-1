@@ -3,6 +3,55 @@
 [![Build Status](https://travis-ci.org/venkatreddyc/real-estate-app.svg?branch=master)](https://travis-ci.org/venkatreddyc/real-estate-app)
 
 
+<p align="center">
+    <img src="https://rawgit.com/badges/shields/master/logo.svg"
+         height="130">
+</p>
+<p align="center">
+    <a href="https://www.gratipay.com/Shields/">
+        <img src="https://img.shields.io/gratipay/shields.svg"
+             alt="Gratipay">
+    </a>
+    <a href="https://npmjs.org/package/gh-badges">
+        <img src="https://img.shields.io/npm/v/gh-badges.svg"
+             alt="npm version">
+    </a>
+    <a href="https://travis-ci.org/badges/shields">
+        <img src="https://img.shields.io/travis/badges/shields.svg"
+             alt="build status">
+    </a>
+</p>
+<p align="center"><sup><strong>An image server for legible and concise information. Our <a href="http://shields.io/">Homepage</a> | <a href="https://twitter.com/shields_io">Twitter</a></strong></sup></p>
+
+* **[INSTALL](INSTALL.md)** – installation instructions.
+* **[CONTRIBUTING](CONTRIBUTING.md)** – project contribution guidelines.
+* **[SPECIFICATION](spec/SPECIFICATION.md)** – spec for the visual design of Shields badges.
+* **[LICENSE](LICENSE.md)** – public domain dedication.
+
+
+## Solving the problem
+Many GitHub repositories sport badges for things like:
+<table>
+  <tr>
+    <td><a href="https://travis-ci.org/"><strong>Travis CI</strong></a><p><sup>(build status)</sup></p></td>
+    <td><img src="http://f.cl.ly/items/2H233M0I0T43313c3h0C/Screen%20Shot%202013-01-30%20at%202.45.30%20AM.png" alt="Travis CI badge"></td>
+  </tr>
+  <tr>
+    <td><a href="https://gemnasium.com/"><strong>Gemnasium</strong></a><p><sup>(dependency checks)</sup></p></td>
+    <td><img src="http://f.cl.ly/items/2j1D2R0q2C3s1x2y3k09/Screen%20Shot%202013-01-30%20at%202.46.10%20AM.png" alt="Gemnasium badge"></td>
+  </tr>
+  <tr>
+    <td><a href="http://codeclimate.com"><strong>Code Climate</strong></a><p><sup>(static analysis)</sup></p></td>
+    <td><img src="http://f.cl.ly/items/0H2O1A3q2b3j1D2i0M3j/Screen%20Shot%202013-01-30%20at%202.46.47%20AM.png" alt="Code Climate badge"></td>
+  </tr>
+  <tr>
+    <td><a href="http://rubygems.org"><strong>RubyGems</strong></a><p><sup>(released gem version)</sup></p></td>
+    <td><img src="http://f.cl.ly/items/443X21151h1V301s2s3a/Screen%20Shot%202013-01-30%20at%202.47.10%20AM.png" alt="RubyGems badge"></td>
+  </tr>
+</table>
+
+
+
 A website and user system, implemented with [MongoDB](https://www.mongodb.org/), [Express](http://expressjs.com/), [AngularJS](https://angularjs.org/) and [Node.js](https://nodejs.org/), a.k.a MEAN stack.
 Inspired by and forked from [Drywall](https://github.com/jedireza/drywall).
 
