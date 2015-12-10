@@ -1,56 +1,13 @@
-# [Real Estate App for Agents]
+# Real Estate Application
 
 [![Build Status](https://travis-ci.org/venkatreddyc/real-estate-app.svg?branch=master)](https://travis-ci.org/venkatreddyc/real-estate-app)
 
-    <a href="https://www.gratipay.com/Shields/">
-        <img src="https://img.shields.io/gratipay/shields.svg"
-             alt="Gratipay">
-    </a>
-    <a href="https://npmjs.org/package/gh-badges">
-        <img src="https://img.shields.io/npm/v/gh-badges.svg"
-             alt="npm version">
-    </a>
-    <a href="https://travis-ci.org/badges/shields">
-        <img src="https://img.shields.io/travis/badges/shields.svg"
-             alt="build status">
-    </a>
-
-
-* **[INSTALL](INSTALL.md)** – installation instructions.
-* **[CONTRIBUTING](CONTRIBUTING.md)** – project contribution guidelines.
-* **[SPECIFICATION](spec/SPECIFICATION.md)** – spec for the visual design of Shields badges.
-* **[LICENSE](LICENSE.md)** – public domain dedication.
-
-
-## Solving the problem
-Many GitHub repositories sport badges for things like:
-<table>
-  <tr>
-    <td><a href="https://travis-ci.org/"><strong>Travis CI</strong></a><p><sup>(build status)</sup></p></td>
-    <td><img src="http://f.cl.ly/items/2H233M0I0T43313c3h0C/Screen%20Shot%202013-01-30%20at%202.45.30%20AM.png" alt="Travis CI badge"></td>
-  </tr>
-  <tr>
-    <td><a href="https://gemnasium.com/"><strong>Gemnasium</strong></a><p><sup>(dependency checks)</sup></p></td>
-    <td><img src="http://f.cl.ly/items/2j1D2R0q2C3s1x2y3k09/Screen%20Shot%202013-01-30%20at%202.46.10%20AM.png" alt="Gemnasium badge"></td>
-  </tr>
-  <tr>
-    <td><a href="http://codeclimate.com"><strong>Code Climate</strong></a><p><sup>(static analysis)</sup></p></td>
-    <td><img src="http://f.cl.ly/items/0H2O1A3q2b3j1D2i0M3j/Screen%20Shot%202013-01-30%20at%202.46.47%20AM.png" alt="Code Climate badge"></td>
-  </tr>
-  <tr>
-    <td><a href="http://rubygems.org"><strong>RubyGems</strong></a><p><sup>(released gem version)</sup></p></td>
-    <td><img src="http://f.cl.ly/items/443X21151h1V301s2s3a/Screen%20Shot%202013-01-30%20at%202.47.10%20AM.png" alt="RubyGems badge"></td>
-  </tr>
-</table>
-
-
-=======
-
-# [Real Estate App for Agents]
-
-[![Build Status](https://travis-ci.org/venkatreddyc/real-estate-app.svg?branch=master)](https://travis-ci.org/venkatreddyc/real-estate-app)
-
->>>>>>> origin/master
+[![NPM version](https://img.shields.io/npm/v/jshint.svg?style=flat)](https://www.npmjs.com/package/jshint)
+[![Linux Build Status](https://img.shields.io/travis/jshint/jshint/master.svg?style=flat&label=Linux%20build)](https://travis-ci.org/jshint/jshint)
+[![Windows Build status](https://img.shields.io/appveyor/ci/jshint/jshint/master.svg?style=flat&label=Windows%20build)](https://ci.appveyor.com/project/jshint/jshint/branch/master)
+[![Dependency Status](https://img.shields.io/david/jshint/jshint.svg?style=flat)](https://david-dm.org/jshint/jshint)
+[![devDependency Status](https://img.shields.io/david/dev/jshint/jshint.svg?style=flat)](https://david-dm.org/jshint/jshint#info=devDependencies)
+[![Coverage Status](https://img.shields.io/coveralls/jshint/jshint.svg?style=flat)](https://coveralls.io/r/jshint/jshint?branch=master)
 
 A website and user system, implemented with [MongoDB](https://www.mongodb.org/), [Express](http://expressjs.com/), [AngularJS](https://angularjs.org/) and [Node.js](https://nodejs.org/), a.k.a MEAN stack.
 Inspired by and forked from [Drywall](https://github.com/jedireza/drywall).
