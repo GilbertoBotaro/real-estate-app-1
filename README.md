@@ -1,14 +1,7 @@
-<<<<<<< HEAD
 # [Real Estate App for Agents]
 
 [![Build Status](https://travis-ci.org/venkatreddyc/real-estate-app.svg?branch=master)](https://travis-ci.org/venkatreddyc/real-estate-app)
 
-
-<p align="center">
-    <img src="https://rawgit.com/badges/shields/master/logo.svg"
-         height="130">
-</p>
-<p align="center">
     <a href="https://www.gratipay.com/Shields/">
         <img src="https://img.shields.io/gratipay/shields.svg"
              alt="Gratipay">
@@ -21,8 +14,7 @@
         <img src="https://img.shields.io/travis/badges/shields.svg"
              alt="build status">
     </a>
-</p>
-<p align="center"><sup><strong>An image server for legible and concise information. Our <a href="http://shields.io/">Homepage</a> | <a href="https://twitter.com/shields_io">Twitter</a></strong></sup></p>
+
 
 * **[INSTALL](INSTALL.md)** – installation instructions.
 * **[CONTRIBUTING](CONTRIBUTING.md)** – project contribution guidelines.
